@@ -6,7 +6,9 @@ The medical decision-making process typically results in binary outcomes, detect
 
 #R Files
 1) normal_cases_sim_codes: The simulation codes (24 cases) for normal distribution
+
 2) gamma_cases_sim_codes: The simulation codes (12 cases) for gamma distribution
+
 #References
 
 1) Rota M, Antolini L. Finding the optimal cut-point for Gaussian and Gamma distributed biomarkers. Computational Statistics & Data Analysis. 2014;69:1–14
